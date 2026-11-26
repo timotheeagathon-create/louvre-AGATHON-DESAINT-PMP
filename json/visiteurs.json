@@ -1,0 +1,11 @@
+[
+  {"code": "V01", "nom": "Arsène Lupin", "role": "guide du musée"},
+  {"code": "V02", "nom": "Fantômas", "role": "mécène anonyme"},
+  {"code": "V03", "nom": "Carmen Sandiego", "role": "experte en art"},
+  {"code": "V04", "nom": "Catwoman", "role": "collectionneuse"},
+  {"code": "V05", "nom": "Rocambole", "role": "journaliste"},
+  {"code": "V06", "nom": "Raffles", "role": "antiquaire"},
+  {"code": "V07", "nom": "Vautrin", "role": "historien"}
+]
+
+

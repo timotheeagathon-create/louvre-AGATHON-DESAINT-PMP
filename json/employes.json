@@ -1,0 +1,7 @@
+[
+  {"code": "E01", "nom": "Indiana Jones", "role": "chef de la sécurité"},
+  {"code": "E02", "nom": "Tintin", "role": "garde de nuit"},
+  {"code": "E03", "nom": "Lara Croft", "role": "conservatrice"},
+  {"code": "E04", "nom": "Sherlock Holmes", "role": "responsable des réserves"},
+  {"code": "E05", "nom": "Phileas Fogg", "role": "régisseur des salles"}
+]

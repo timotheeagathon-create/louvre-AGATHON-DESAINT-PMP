@@ -1,0 +1,34 @@
+[
+  {
+    "id": "O001",
+    "nom": "Collier de la Reine",
+    "categorie": "bijou",
+    "valeur_estimee": 8500000,
+    "emplacement": "Galerie d'Apollon",
+    "vitrine": "V12"
+  },
+  {
+    "id": "O002",
+    "nom": "Diadème impérial",
+    "categorie": "bijou",
+    "valeur_estimee": 6200000,
+    "emplacement": "Galerie d'Apollon",
+    "vitrine": "V14"
+  },
+  {
+    "id": "O003",
+    "nom": "Broche des Bourbon",
+    "categorie": "bijou",
+    "valeur_estimee": 3100000,
+    "emplacement": "Galerie d'Apollon",
+    "vitrine": "V16"
+  },
+  {
+    "id": "O004",
+    "nom": "Bracelet de l'Impératrice",
+    "categorie": "bijou",
+    "valeur_estimee": 2800000,
+    "emplacement": "Galerie d'Apollon",
+    "vitrine": "V18"
+  }
+]

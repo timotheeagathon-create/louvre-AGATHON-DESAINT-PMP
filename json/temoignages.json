@@ -1,0 +1,146 @@
+[
+  {
+    "code": "V01",
+    "nom": "Arsène Lupin",
+    "innocent": [
+      "J'ai donné une visite guidée jusqu'à 22 h 30, puis je suis resté dans la cafétéria avec le personnel. Je n'ai rien vu d'anormal.",
+      "Je connais chaque recoin de ce musée, c'est ma fierté. Cette nuit, pourtant, rien ne m'avait alerté."
+    ],
+    "coupable": [
+      "Une visite guidée, oui... enfin, j'ai pu m'éclipser un moment. Les groupes se mélangent si vite à cette heure-là.",
+      "Les alarmes ? J'étais... dans les couloirs de service. Seul. Je ne garde pas un souvenir très précis de chaque minute."
+    ]
+  },
+  {
+    "code": "V02",
+    "nom": "Fantômas",
+    "innocent": [
+      "J'étais en réunion avec le mécénat jusqu'à minuit. Tout le monde peut le confirmer.",
+      "Je ne venais pas pour les vitrines, mais pour négocier un prêt. Je peux fournir les bordereaux."
+    ],
+    "coupable": [
+      "Moi, présent dans la galerie ? Ridicule... Enfin, je suis entré par une porte latérale pour éviter les paparazzi, c'est tout.",
+      "Je préfère ne pas répondre sur mes déplacements. Mon emploi du temps ne regarde que moi."
+    ]
+  },
+  {
+    "code": "V03",
+    "nom": "Carmen Sandiego",
+    "innocent": [
+      "Je note les numéros d'inventaire depuis des années ; je me souviens de chaque vitrine, elles étaient intactes à 22 h 45.",
+      "J'aidais à la réception des œuvres. Demandez au régisseur, il peut confirmer ma présence."
+    ],
+    "coupable": [
+      "Les vitrines ? Je ne les ai pas ouvertes... c'est-à-dire que j'ai manipulé un verrou, oui, pour une vérification, mais je suis repartie aussitôt.",
+      "Un alibi ? J'étais en salle d'études, seule. La salle d'études ne mène à personne. C'est commode, n'est-ce pas ?"
+    ]
+  },
+  {
+    "code": "V04",
+    "nom": "Catwoman",
+    "innocent": [
+      "Je suis montée par l'escalier de service et je suis restée près du vestiaire, à attendre une amie qui n'est jamais venue.",
+      "Les technologies du musée m'ont impressionnée : je n'ai rien touché, promis. Je regardais les câbles, c'est tout."
+    ],
+    "coupable": [
+      "J'ai escaladé... non, j'ai marché le long des échafaudages. Les toits, cette nuit, ils étaient noirs, personne ne m'y a vue.",
+      "Ma combinaison ? Une tenue de sport, voyons. Allez vérifier la poussière sur les corniches si vous voulez."
+    ]
+  },
+  {
+    "code": "V05",
+    "nom": "Rocambole",
+    "innocent": [
+      "Je couvrais la rétrospective ; mon carnet de notes est horodaté jusqu'à 23 h 50, dans la salle des portraits.",
+      "Un journaliste voit tout, croyez-moi. Je n'ai vu aucune ombre rôder dans la Galerie d'Apollon."
+    ],
+    "coupable": [
+      "Mon carnet ? Je l'ai perdu... enfin, il est resté chez l'imprimeur. Les horodatages, on peut toujours les contester, non ?",
+      "J'étais sur la mezzanine à photographier le plafond. Je ne peux pas prouver quoi que ce soit, si vous voulez mon avis."
+    ]
+  },
+  {
+    "code": "V06",
+    "nom": "Raffles",
+    "innocent": [
+      "En tant qu'antiquaire, je connais la valeur des pièces. Je venais expertiser un tableau ; départ à 23 h 20, billet de vestiaire à l'appui.",
+      "Je ne m'intéresse qu'aux toiles anciennes. Les bijoux de la couronne ? Pas mon rayon."
+    ],
+    "coupable": [
+      "Un cambrioleur ? Je trouve ça insultant. Je ne fais que... collectionner. La vitrine V12 est fragile ; qui la connaissait ? Moi. Coïncidence.",
+      "Je me suis trompé de porte en sortant, voilà tout. Le couloir des réserves est sombre, on peut s'y perdre facilement."
+    ]
+  },
+  {
+    "code": "V07",
+    "nom": "Vautrin",
+    "innocent": [
+      "J'étudiais les archives au pavillon de l'Horloge ; le conservateur m'a vu partir à minuit moins le quart.",
+      "Quand on a mon âge, on ne court pas les galeries la nuit. J'étais à la bibliothèque, un point c'est tout."
+    ],
+    "coupable": [
+      "J'ai remarqué que la patrouille passait toutes les 40 minutes. Intéressant pour un historien, non ? C'est tout ce que je dis.",
+      "La poussière ? Je ne suis pas entré dans la galerie. S'il y a des traces, elles ont été faites par quelqu'un qui voulait me copier."
+    ]
+  },
+  {
+    "code": "E01",
+    "nom": "Indiana Jones",
+    "innocent": [
+      "Je coordonnais la sécurité ; les rondes sont consignées dans mon rapport horaire. Tout est à votre disposition.",
+      "Si un intrus était passé, mes écrans l'auraient montré. À 23 h 52, les caméras sont tombées en panne — coïncidence, selon le technicien."
+    ],
+    "coupable": [
+      "J'ai dû couper l'alimentation électrique pour une maintenance... à 23 h 52 ? C'est un hasard troublant, je vous l'accorde.",
+      "Ma clé ? Tout le monde m'en demande une copie. Allez savoir qui l'a eue après moi."
+    ]
+  },
+  {
+    "code": "E02",
+    "nom": "Tintin",
+    "innocent": [
+      "Je faisais ma ronde de 23 h dans le pavillon Denon, conforme au registre. Chaque point de contrôle est tamponné.",
+      "Rien d'anormal cette nuit, sauf une porte de service mal fermée. Je l'ai signalée par radio à 23 h 48."
+    ],
+    "coupable": [
+      "J'ai entendu une alarme, mais j'avais la consigne de vérifier d'abord... oui, j'ai attendu. C'est une faute, je le reconnais, rien de plus.",
+      "Mon badge ? Il était dans ma poche. Enfin, je crois. Les badges se prêtent si facilement... je n'en sais rien."
+    ]
+  },
+  {
+    "code": "E03",
+    "nom": "Lara Croft",
+    "innocent": [
+      "Je préparais une exposition sur les joyaux de la couronne. J'ai travaillé dans mon bureau jusqu'à 23 h 40, puis je suis rentrée.",
+      "Je connais l'inventaire par cœur : les quatre pièces étaient là à 22 h 15, lors de ma dernière vérification."
+    ],
+    "coupable": [
+      "J'ai classé les dossiers de la vitrine V14... Oui, la vitrine du Diadème. Rien à voir avec le vol, je vous prie.",
+      "Les systèmes d'ouverture de secours ? C'est moi qui en ai la notice. N'importe qui aurait pu la consulter dans mon bureau."
+    ]
+  },
+  {
+    "code": "E04",
+    "nom": "Sherlock Holmes",
+    "innocent": [
+      "Je consigne les entrées et sorties des réserves. Rien n'est sorti la nuit dernière, c'est mathématique.",
+      "Un esprit logique ne s'égare pas : la poussière du sol n'était pas dérangée devant la réserve. La pièce maîtresse n'a pas bougé."
+    ],
+    "coupable": [
+      "J'ai remarqué que la serrure V16 présentait des micro-rayures depuis des semaines. Je ne l'ai pas signalé ; c'était peut-être une erreur.",
+      "Mes déductions ? Elles m'ont conduit près de la vitrine, pour vérifier. Rien de plus. Je n'aime pas qu'on doute de mes méthodes."
+    ]
+  },
+  {
+    "code": "E05",
+    "nom": "Phileas Fogg",
+    "innocent": [
+      "J'ai fermé les salles à 21 h 15, précisément, comme chaque soir. Mon registre de tournée est méticuleux.",
+      "Je suis ponctuel, Détective. Si le vol a eu lieu à 23 h 52, j'étais à ma pause de 23 h 45 à minuit, dans le réfectoire, avec trois témoins."
+    ],
+    "coupable": [
+      "Ma pause ? J'ai pu m'attarder un peu dans les couloirs. L'horloge du réfectoire retardait, peut-être. On ne peut pas tout vérifier.",
+      "Les tournées s'écartent parfois du registre, vous savez. La routine, c'est pour les apparences."
+    ]
+  }
+]

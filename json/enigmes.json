@@ -1,0 +1,99 @@
+[
+  {
+    "id": "E01",
+    "titre": "Code de la salle des caméras",
+    "question": "Le technicien a laissé une note : « Le code d'accès est le nombre de lettres de GALERIE D'APOLLON (sans espace ni apostrophe), suivi du nombre de pièces dérobées. »",
+    "indice": "GALERIE D'APOLLON compte 15 lettres ; quatre pièces ont été dérobées.",
+    "reponse": "154"
+  },
+  {
+    "id": "E02",
+    "titre": "Mot-clé du registre de nuit",
+    "texte": "23:41 porte B — passage réserves. 23:47 couloir sud — aller réserves. 23:55 retour réserves. 00:03 réserves nord — contrôle. 00:12 réserves : rien à signaler.",
+    "indice": "Le même mot revient cinq fois dans le registre.",
+    "reponse": "réserves"
+  },
+  {
+    "id": "E03",
+    "titre": "Détection d'incohérences",
+    "versions": [
+      {
+        "type": "voleur_unique",
+        "question": "Deux témoins placent la même personne à deux endroits différents au même instant. Que faites-vous ?",
+        "choix": {
+          "A": "Écarter les deux témoignages.",
+          "B": "Vérifier la chronologie et recouper avec les faits.",
+          "C": "Porter immédiatement une accusation."
+        },
+        "bonne_reponse": "B"
+      },
+      {
+        "type": "voleur_complice",
+        "question": "Le registre de présence montre une porte ouverte deux fois en une minute, aux deux extrémités opposées du musée.",
+        "choix": {
+          "A": "Croire le registre : quelqu'un court très vite.",
+          "B": "Deux personnes ont utilisé le même badge : chercher un complice.",
+          "C": "Ignorer ce détail, il ne mène à rien."
+        },
+        "bonne_reponse": "B"
+      },
+      {
+        "type": "faux_vol",
+        "question": "L'inventaire des réserves, recoupé avec les registres de prêt, ne montre aucune sortie d'œuvre.",
+        "choix": {
+          "A": "Les bijoux ont été déplacés dans la nuit sans passage en caisse.",
+          "B": "Le vol est fictif : rien n'a réellement quitté les réserves.",
+          "C": "Les registres ont été falsifiés par un employé."
+        },
+        "bonne_reponse": "B"
+      },
+      {
+        "type": "mise_en_scene",
+        "question": "La caméra de secours montre une personne entrant par la porte de service à 23 h 54, mais la poussière devant cette porte est intacte.",
+        "choix": {
+          "A": "La vidéo a été truquée : la personne filmée est innocente.",
+          "B": "La personne est entrée sans laisser de traces.",
+          "C": "Les traces ont été nettoyées par un complice."
+        },
+        "bonne_reponse": "A"
+      }
+    ]
+  },
+  {
+    "id": "E04",
+    "titre": "Reconstruction des horaires de la nuit",
+    "evenements": [
+      {
+        "lettre": "a",
+        "heure": "23 h 50",
+        "evenement": "Coupure de l'enregistreur vidéo principal : les caméras de la galerie cessent d'enregistrer."
+      },
+      {
+        "lettre": "b",
+        "heure": "23 h 52",
+        "evenement": "L'alarme antivol se déclenche puis est immédiatement neutralisée avec le code de maintenance."
+      },
+      {
+        "lettre": "c",
+        "heure": "23 h 54",
+        "evenement": "La silhouette gantée entre dans la Galerie d'Apollon par la porte de service."
+      },
+      {
+        "lettre": "d",
+        "heure": "23 h 56",
+        "evenement": "Les vitrines V12, V14, V16 et V18 sont ouvertes avec la clé de maintenance."
+      },
+      {
+        "lettre": "e",
+        "heure": "23 h 58",
+        "evenement": "La silhouette ressort par le même couloir, une besace à l'épaule."
+      },
+      {
+        "lettre": "f",
+        "heure": "00 h 01",
+        "evenement": "L'alarme est réarmée et l'enregistreur redémarre : tout semble normal."
+      }
+    ],
+    "indice": "Les caméras s'éteignent avant que l'alarme soit neutralisée ; la silhouette entre avant d'ouvrir les vitrines, et l'alarme est réarmée en dernier."
+  }
+]

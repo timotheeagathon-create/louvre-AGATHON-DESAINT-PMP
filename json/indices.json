@@ -1,0 +1,62 @@
+[
+  {
+    "id": "I01",
+    "titre": "Alarme contournée",
+    "texte": "Le système d'alarme de la Galerie d'Apollon a été neutralisé de 23 h 52 à 00 h 01, puis réarmé. Seule une personne connaissant le code de maintenance a pu le faire.",
+    "role": "contournement_alarme"
+  },
+  {
+    "id": "I02",
+    "titre": "Empreintes de gants",
+    "texte": "Des traces de gants fins ont été relevées sur la vitrine V12. Le laboratoire les associe au protocole de manutention des œuvres.",
+    "role": "empreinte_gants"
+  },
+  {
+    "id": "I03",
+    "titre": "Registre de présence",
+    "texte": "Le registre horodaté des entrées montre des allées et venues inhabituelles près de la Galerie d'Apollon entre 22 h et minuit.",
+    "role": "registre_presence"
+  },
+  {
+    "id": "I04",
+    "titre": "Mot-clé du registre",
+    "texte": "Le mot qui revient le plus souvent dans le registre de nuit est « réserves » : plusieurs passages ont été notés vers les réserves, loin des salles publiques.",
+    "role": "mots_cles_registre"
+  },
+  {
+    "id": "I05",
+    "titre": "Témoignage contradictoire",
+    "texte": "Deux témoins décrivent la même personne à deux endroits opposés au même instant : l'un des deux ment, ou un tiers se déplace incognito.",
+    "role": "temoignage_contradictoire"
+  },
+  {
+    "id": "I06",
+    "titre": "Extrait des caméras",
+    "texte": "L'enregistreur principal était coupé, mais la caméra de secours de la galerie montre une silhouette gantée près des vitrines à 23 h 54. Le visage reste hors champ.",
+    "role": "extrait_camera"
+  },
+  {
+    "id": "I07",
+    "titre": "Trou dans la chronologie",
+    "texte": "Entre 23 h 52 et 23 h 58, aucun badge n'a été utilisé sur les portes de la galerie : la personne s'est déplacée pendant la neutralisation de l'alarme.",
+    "role": "chronologie_trou"
+  },
+  {
+    "id": "I08",
+    "titre": "Poussière intacte",
+    "texte": "La poussière devant la porte de service est intacte, alors que la caméra montre quelqu'un y entrer : la vidéo a été montée.",
+    "role": "mise_en_scene"
+  },
+  {
+    "id": "I09",
+    "titre": "Alibi solide",
+    "texte": "Les témoignages et badges des visiteurs se recoupent : personne n'était présent dans la galerie après 23 h 30.",
+    "role": "alibi_solide"
+  },
+  {
+    "id": "I10",
+    "titre": "Inventaire des réserves",
+    "texte": "Les quatre pièces sont retrouvées dans la réserve des galeries, hors inventaire : elles n'ont jamais quitté le musée.",
+    "role": "faux_vol"
+  }
+]
